@@ -119,9 +119,6 @@ Online API documentation is located on [/Swagger](http://ideashareapp.azurewebsi
 - [ ] Edit articles/comments
 - [ ] Administrator dashboard
 
-## Authors
-
-* **Damir Shakenov** - [shakenovdev](https://github.com/shakenovdev)
 
 ## License
 
